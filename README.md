@@ -1,1 +1,1 @@
-# the-haunting-robots
+    ''''This function does multiplication of two numbers''''
