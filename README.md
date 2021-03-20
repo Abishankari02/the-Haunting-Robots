@@ -1,1 +1,2 @@
-# the-haunting-robots
+this function performs division 
+    and prints the values
