@@ -1,4 +1,7 @@
-''''This function does multiplication of two numbers'''
+
+this function performs division and prints the values
+This function does multiplication of two numbers
 this functio performs subtraction and display the difference
- This function performs addition and print the sum
+This function performs addition and print the sum
+
 
