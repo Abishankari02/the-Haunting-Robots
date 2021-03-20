@@ -1,1 +1,1 @@
-# the-haunting-robots
+ This function performs addition and print the sum.
